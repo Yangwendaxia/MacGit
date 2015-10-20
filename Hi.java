@@ -7,3 +7,4 @@ branch testing
 testing branch content
 add to cache
 uncached diff
+file rename
